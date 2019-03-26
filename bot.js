@@ -9,7 +9,7 @@ function clean(text) {
 }
 
 const prefix = "+";
-const token = "https://discordapp.com/api/oauth2/authorize?client_id=560154979285860357&permissions=8&scope=bot";
+const token = "NTYwMTU0OTc5Mjg1ODYwMzU3.D3v1bA.TeOYmlstw7Z1NjOuOZI9jEtkLtA";
 
 client.on("ready", () => {
   console.log("Vulnix | Logged in! Server count: ${client.guilds.size}");
